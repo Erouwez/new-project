@@ -7,7 +7,13 @@ git config --global init.defaultBranch main
 
 ### создал new-project в папке dev
 
+C:\Users\Дмитрий\dev  - это на компе
+
+а это в консоли путь
+
 cd ~/dev/
+
+### создаем
 
 mkdir new-project
 
@@ -20,7 +26,7 @@ cd ~/dev/new-project
 git init
 
 ---
-###### ЕСЛИ что то пошло не так надо ее разГИТить
+###### ЕСЛИ что то пошло не так надо ее разГИТить:
 
 ###### перешли в папку
 
@@ -130,7 +136,7 @@ cd ~/dev/new-project
 
 touch README.md
 
-** ## Схема такая в итоге **
+## Схема такая в итоге
 
 ```
 $ git add .
